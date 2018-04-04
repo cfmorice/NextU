@@ -1,2 +1,0 @@
-# NextU
-Repositorio para NextU
